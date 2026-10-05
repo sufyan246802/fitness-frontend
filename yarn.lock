@@ -1076,10 +1076,10 @@
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@canvasjs/charts@^3.7.5":
-  version "3.8.7"
-  resolved "https://registry.npmjs.org/@canvasjs/charts/-/charts-3.8.7.tgz"
-  integrity sha512-WuZzKoippiDl5H9UbOYcxV5oyjgKrTt1FwexER3KFR6dJ1v5D+wyojEY24KYuFYkL6SwdaZbyZOna6Iyqu9Phg==
+"@canvasjs/charts@^3.17.6", "@canvasjs/charts@^3.7.5":
+  version "3.17.6"
+  resolved "https://registry.npmjs.org/@canvasjs/charts/-/charts-3.17.6.tgz"
+  integrity sha512-Jh83jiaCMLGY8PLJGc5XNMJdEDBbc7C2hGq8fj2dFATkvO/RZ+2/kv9lZrFe3E4XSPV3hUqR10/QSXjT/YEqZw==
 
 "@canvasjs/react-charts@^1.0.2":
   version "1.0.2"
